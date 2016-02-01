@@ -1,0 +1,62 @@
+    1  ls
+    2  ls -l
+    3  ls
+    4  ls
+    5  ls
+    6  ls  -l
+    7  ls
+    8  ls 
+    9  ls -l
+   10  ll
+   11  git config --global user.name "abidi"
+   12  git config --global user.email  "abidi.medsalah@gmail.com"
+   13  git init QML_IVI_V1/
+   14  ls
+   15  cd QML_IVI_V1/
+   16  ls
+   17  ls |grep git
+   18  ls -l | grep *gi
+   19  ls
+   20  ls
+   21  cd  QML_IVI_V1/
+   22  ls
+   23  git status
+   24  ls
+   25  cd QML_IVI_V1/
+   26  git status
+   27  ls
+   28  cd internet/
+   29  git status
+   30  ls
+   31  ls
+   32  cd ..*
+   33  ls
+   34  cd git_projects/
+   35  ls
+   36  cd git_test_project/
+   37  git status
+   38  git init
+   39  ls
+   40  git config --global user.name "abidimedsalah"
+   41  git config --global user.email "abidi.medsalah@gmail.com"
+   42  log
+   43  git log
+   44  git status 
+   45  git clone https://github.com/abidimedsalah/test-git.git
+   46  cd test-git/
+   47  ls
+   48  cat readme.txt 
+   49  git status 
+   50  vi readme.txt 
+   51  git status 
+   52  git add readme.txt
+   53  git commit -m "change3-1"
+   54  git status 
+   55  ls
+   56  git log
+   57  history
+   58  git remote add origin https://github.com/abidimedsalah/test-git.git
+   59  git push - u origin master
+   60  git push -u origin master
+   61  history
+   62  history > loghistory.txt
